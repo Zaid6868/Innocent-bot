@@ -1,7 +1,7 @@
 # CONFIG
 # ---------
-token = "" # To find this, it's harder than it used to be. Please Google the process.
-prefix = "~" # This will be used at the start of commands.
+token = "NzA4NzQ3NjAxNzA4NTgwOTY0.Xrb2pA.6QMnhMBc2u24MH-YB_Sqf6CPkDM" # To find this, it's harder than it used to be. Please Google the process.
+prefix = "+" # This will be used at the start of commands.
 # ----------
 
 import discord
